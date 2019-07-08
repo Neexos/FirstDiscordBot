@@ -1,0 +1,23 @@
+{
+  "name": "wow_entities",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MEYNET Léo",
+  "license": "ISC",
+  "dependencies": {
+    "casper-nodejs": "^1.0.0",
+    "discord.js": "^11.5.1",
+    "html2canvas": "^1.0.0-rc.3",
+    "node-webshot": "^1.0.3",
+    "phantom": "^6.2.0",
+    "phantomjs-prebuilt": "^2.1.16",
+    "webpage": "^0.3.0"
+  },
+  "devDependencies": {
+    "zombie": "^6.1.4"
+  }
+}
